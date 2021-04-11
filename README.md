@@ -1,1 +1,1 @@
-smart-beta
+# Smart Beta
